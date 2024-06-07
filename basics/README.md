@@ -1,2 +1,3 @@
-Salomon Diallo
+#!/bin/bash
+"pwd"
 
