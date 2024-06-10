@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Le répertoire de travail courant est :($pwd)
+echo "pwd"
