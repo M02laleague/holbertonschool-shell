@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello user""/action"
+echo hello user/action
