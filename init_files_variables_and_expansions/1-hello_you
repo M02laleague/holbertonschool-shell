@@ -1,2 +1,2 @@
-#!/bin/bash
-echo hello MyUser/action
+#!/bin/bash 
+echo "hello $USER"
